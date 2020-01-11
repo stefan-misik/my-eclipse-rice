@@ -14,7 +14,7 @@ have to go through these steps to configure it to my liking.
 
  * **General > Editors > Text Editors**: Show print margin (80),
    Show white space characters (hide leading and enclosed space, hide line feed)
- * **General > Keys**: Unbind: Paste (`Ctrl+V`)
+ * **General > Keys**: Unbind: Paste (`Ctrl+V`) and Find (`Ctrl+F`)
  * **General > Workspace**: New text file line delimiter: Other - Unix
  * **C/C++ > Code Style > Code Templates**: Import `code_templates.xml`
  * **C/C++ > Code Style > Formatter**: Import `my_bsd_formatter.xml`
