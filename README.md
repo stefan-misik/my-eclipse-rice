@@ -9,6 +9,7 @@ have to go through these steps to configure it to my liking.
  * [Vrapper](http://vrapper.sourceforge.net/home/)
  * [Relative Number Ruler](https://marketplace.eclipse.org/content/relative-line-number-ruler)
  * [Darkest Dark Theme](https://marketplace.eclipse.org/content/darkest-dark-theme-devstyle)
+ * [CppUTest Test Runner](https://github.com/stefan-misik/cpputest-eclipse-test-runner/releases/latest)
 
 
 ## Workspace Settings
