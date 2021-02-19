@@ -13,7 +13,7 @@ have to go through these steps to configure it to my liking.
 
 
 ## Workspace Settings
- * **General > Editors > Text Editors**: Show print margin (80),
+ * **General > Editors > Text Editors**: Show print margin (120),
    Show white space characters (hide leading and enclosed space, hide line feed)
  * **General > Keys**: Unbind: Paste (`Ctrl+V`) and Find (`Ctrl+F`)
  * **General > Workspace**: New text file line delimiter: Other - Unix
