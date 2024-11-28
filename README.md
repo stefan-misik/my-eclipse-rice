@@ -17,6 +17,9 @@ have to go through these steps to configure it to my liking.
    Show white space characters (hide leading and enclosed space, hide line feed)
  * **General > Keys**: Unbind: Paste (`Ctrl+V`) and Find (`Ctrl+F`)
  * **General > Workspace**: New text file line delimiter: Other - Unix
+ * **C/C++ > Code Analysis**: Customize 'No break at end of case' to use 'fall
+   through' suppression comment (that's what GCC uses with -Wextra). However
+   `[[fallthrough]]` attribute is preferred for C++17 and later
  * **C/C++ > Code Style > Code Templates**: Import `code_templates.xml`
  * **C/C++ > Code Style > Formatter**: Import `my_bsd_formatter.xml`
  * **C/C++ > Editor**: Documentation tool comments <- Doxygen
